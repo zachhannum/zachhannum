@@ -24,14 +24,6 @@ I am a software engineer based out of Raleigh, NC
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-### 📈 Stats
----
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=midnightprioriem&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnightprioriem&hide=TeX&layout=compact)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zacharyhannum&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
