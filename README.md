@@ -22,7 +22,6 @@ I am a software engineer based out of Raleigh, NC
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zacharyhannum&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
