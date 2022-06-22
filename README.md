@@ -1,11 +1,11 @@
-## Hi there, my name is Zach 👋
+<div align="center">
+  <h1>Hi there, my name is Zach 👋</h1>
 
-I am a software engineer based out of Raleigh, NC
+  <p>I am a software engineer based out of Raleigh, NC</p>
 
-### 😀 About Me
----
+<h3>😀 About Me</h3>
 
-⌚ Software Engineer at [Garmin](https://www.garmin.com/en-US/)
+<p>⌚ Software Engineer at <a href="https://www.garmin.com/en-US/">Garmin</a></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-zhannum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhannum/)](https://www.linkedin.com/in/zhannum/)
 [![Gmail Badge](https://img.shields.io/badge/-zacharyhannum@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacharyhannum@gmail.com)](mailto:zacharyhannum@gmail.com)
