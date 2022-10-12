@@ -5,7 +5,9 @@
 
 <h3>😀 About Me</h3>
 
-<p>⌚ Software Engineer at <a href="https://www.garmin.com/en-US/">Garmin</a></p>
+<div style="display:flex;justify-content:center;align-content:center">
+<p> Software Engineer at <a href="https://www.rstudio.com/"><img src="https://www.rstudio.com/assets/img/logo.svg" width="auto" height="30"/></a></p>
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-zhannum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhannum/)](https://www.linkedin.com/in/zhannum/)
 [![Gmail Badge](https://img.shields.io/badge/-zacharyhannum@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacharyhannum@gmail.com)](mailto:zacharyhannum@gmail.com)
@@ -39,3 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
